@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56485970574",
+    "project_id": "qrcode1-1fc19",
+    "storage_bucket": "qrcode1-1fc19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56485970574:android:aca58cddb66749d0a4bfdf",
+        "android_client_info": {
+          "package_name": "com.app.wombatunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56485970574-j2ggqmg341t3kh18i3scatuphuf41ut2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.wombatunity",
+            "certificate_hash": "2082a9161699b6ebf113603ce6e54a31e37ce855"
+          }
+        },
+        {
+          "client_id": "56485970574-6s7dqls8b00hnjrc051nm611d4u0p8pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsWRNfmvKomEePbGyJovQUmPuLLtb_ZZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56485970574-6s7dqls8b00hnjrc051nm611d4u0p8pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
